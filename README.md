@@ -1,0 +1,2 @@
+# jhipstore
+jhipster pratice project
